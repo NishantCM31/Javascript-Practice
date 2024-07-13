@@ -6,9 +6,9 @@ const author = "Nishant"
 b = 4
 const Nishant = 0;
 let c = null
-let d  = undefined  
+let d  = undefined                 
 {
-  let b = 'this'
+  let b = 'this'           
   console.log(b)
 }
 console.log(b)
