@@ -16,4 +16,4 @@ const item = {
   "Seshwar": 67,
   "Suryatej": undefined
 }
-console.log(item["Adarsh"])
+console.log(item["Adarsh"])13_Strings
